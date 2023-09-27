@@ -1,5 +1,5 @@
 ### Olá, meu nome é Mayara 
-Tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas, adoro gatinhos e tenho muito interesse no Back-End.
+Tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas e atualmente focando meus estudos em Back-end, especificamente em Java e Spring Boot.
 
 
 <div>
@@ -15,17 +15,20 @@ Tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas, adoro gat
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />       
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />     
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />    
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />     
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />    
+ <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
 </div>
 
 #  
 
 ### Atualmente aprendendo/aprimorando:
 <div>
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
 #
